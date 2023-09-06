@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+button{
+    padding:10px;
+    border-radius: 5px;
+    color: aliceblue;
+    cursor: pointer;
+}
+#load_prev
+{
+    background-color: rgba(42, 155, 165, 0.484);
+
+}
+#load_next
+{
+    background-color: aquamarine;
+}
+ol{
+    width: 100%;
+    margin: auto;
+
+}
+ol>li{
+    display: block;
+    padding: 10px;
+    margin: 6px;
+    background-color: antiquewhite;
+    color:grey;
+
+}
